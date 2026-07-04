@@ -1,7 +1,7 @@
-# SOP — SSH Brute-Force Triage
+# SOP SSH Brute-Force Triage
 
 **Applies to:** Failed-authentication threshold alerts on Linux hosts.
-**Related MITRE:** T1110.001 — Brute Force: Password Guessing.
+**Related MITRE:** T1110.001 Brute Force: Password Guessing.
 
 ## Steps
 1. **Identify the source.** Extract the source IP. Determine internal vs.
