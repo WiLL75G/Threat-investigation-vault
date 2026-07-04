@@ -15,7 +15,7 @@
 5. **Check post-auth activity.** If any success, review subsequent activity on
    the target host for signs of hands-on-keyboard.
 6. **Decide and record.** Assign verdict, map to MITRE, and invoke
-   [[playbook-bruteforce-response]] if confirmed true positive.
+   [Brute-Force Response playbook](../playbooks/playbook-bruteforce-response.md) if confirmed true positive.
 
 ## Decision quick-reference
 | Observation                        | Likely verdict        |
