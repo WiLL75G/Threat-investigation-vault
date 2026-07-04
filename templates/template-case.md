@@ -3,7 +3,7 @@ case_id: CASE-XXX
 title:
 status: open        # open | active | closed
 severity:           # low | medium | high | critical
-analyst: James (@WilliamInCyber)
+analyst: William (@WilliamInCyber)
 opened:
 closed:
 mitre_techniques: []
@@ -41,7 +41,7 @@ What the evidence actually shows.
 - [ ]
 
 ## Outcome
-Benign / true positive / escalated — with rationale.
+Benign / true positive / escalated with rationale.
 
 ## Report
 [Investigation Report](report.md)

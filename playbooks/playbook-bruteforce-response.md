@@ -1,4 +1,4 @@
-# Playbook — Brute-Force Response
+# Playbook Brute-Force Response
 
 **Invoked when:** SSH brute-force confirmed as a true positive with successful
 authentication.
