@@ -1,6 +1,6 @@
-# Investigation Report — CASE-XXX
+# Investigation Report CASE-XXX
 
-**Analyst:** James (@WilliamInCyber)
+**Analyst:** William (@WilliamInCyber)
 **Date:**
 **Severity:**
 **Status:**
