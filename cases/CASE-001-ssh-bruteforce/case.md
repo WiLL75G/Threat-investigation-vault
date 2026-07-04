@@ -29,8 +29,8 @@ indicating a completed credential-guessing attack.
 | Host | Attacker-Tier4 | Known Kali Linux VM       | Source   |
 
 Linked notes:
-- [[ip-192.168.64.15]]
-- [[host-attacker-tier4]]
+- [192.168.64.15](artifacts/ip-192.168.64.15.md)
+- [Attacker-Tier4](artifacts/host-attacker-tier4.md)
 
 ## Triage Notes
 1. Confirmed source IP `192.168.64.15` — internal lab range, maps to the
@@ -50,7 +50,7 @@ compromise. Confirmed as a controlled lab simulation.
 - T1110.001 — Brute Force: Password Guessing
 
 ## SOP Followed
-[[sop-ssh-bruteforce-triage]]
+[SSH Brute-Force Triage SOP](../../SOPs/sop-ssh-bruteforce-triage.md)
 
 ## Actions Taken
 - [x] Confirmed source and outcome counts
@@ -63,4 +63,4 @@ compromise. Confirmed as a controlled lab simulation.
 validated end-to-end against real telemetry.
 
 ## Report
-[[report]]
+[Investigation Report](report.md)

@@ -44,4 +44,4 @@ Alert  ->  Open case  ->  Log artifacts  ->  Enrich  ->  Follow SOP
 
 Open the folder as an [Obsidian](https://obsidian.md) vault, or browse as plain
 Markdown on GitHub. Every case links its SOP, artifacts, and report through
-standard `[[wikilinks]]`.
+standard Markdown links, so you can click straight through an investigation on GitHub.

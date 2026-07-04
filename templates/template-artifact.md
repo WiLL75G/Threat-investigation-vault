@@ -20,7 +20,7 @@ Where this artifact was observed and why it matters.
 |        |        |      |
 
 ## Related Cases
-- [[CASE-XXX]]
+- [CASE-XXX](../case.md)
 
 ## Verdict
 Rationale for the assigned verdict.

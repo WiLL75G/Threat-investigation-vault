@@ -21,7 +21,7 @@ brute-force against the monitored Linux Syslog host.
 | Internal inventory | Known lab attacker machine |      |
 
 ## Related Cases
-- [[case]] (CASE-001)
+- [CASE-001](../case.md)
 
 ## Verdict
 Internal / attacker VM.

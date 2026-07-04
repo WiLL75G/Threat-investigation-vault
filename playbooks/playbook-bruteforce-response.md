@@ -19,4 +19,4 @@ authentication.
 ## Post-incident
 - [ ] Confirm the detection rule fired correctly; tune thresholds if needed.
 - [ ] Record IOCs in the global artifact index.
-- [ ] Finalize the report ([[template-report]]).
+- [ ] Finalize the report (see [report template](../templates/template-report.md)).

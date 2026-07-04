@@ -35,7 +35,7 @@ What the evidence actually shows.
 - Txxxx —
 
 ## SOP Followed
-[[sop-...]]
+[SOP name](../../SOPs/sop-....md)
 
 ## Actions Taken
 - [ ]
@@ -44,4 +44,4 @@ What the evidence actually shows.
 Benign / true positive / escalated — with rationale.
 
 ## Report
-[[report]]
+[Investigation Report](report.md)
