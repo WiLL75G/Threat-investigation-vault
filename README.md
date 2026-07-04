@@ -1,18 +1,18 @@
 # Threat Investigation Vault
 
 A local-first, Markdown-based investigation workspace for SOC analysis, threat
-hunting, and DFIR. Built to structure the full investigation lifecycle —
-triage, artifact enrichment, playbook execution, and reporting — from a single
+hunting, and DFIR. Built to structure the full investigation lifecycle
+triage, artifact enrichment, playbook execution, and reporting from a single
 portable knowledge base.
 
-Designed and maintained by **James** ([@WilliamInCyber](https://x.com/WilliamInCyber)).
+Designed and maintained by **William** ([@WilliamInCyber](https://x.com/WilliamInCyber)).
 
 ![CASE-001 SSH Brute-Force Investigation](case-001-diagram.png)
 
 ## Why this exists
 
-SIEM alerts land in a ticket system; the actual analysis — research, artifact
-enrichment, decision rationale — usually happens in scattered notes. This vault
+SIEM alerts land in a ticket system; the actual analysis research, artifact
+enrichment, decision rationale usually happens in scattered notes. This vault
 keeps the *investigation itself* structured, repeatable, and reviewable, grounded
 in real lab telemetry rather than theory.
 
