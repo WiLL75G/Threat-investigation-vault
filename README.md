@@ -5,7 +5,7 @@ hunting, and DFIR. Built to structure the full investigation lifecycle
 triage, artifact enrichment, playbook execution, and reporting from a single
 portable knowledge base.
 
-Designed and maintained by **William** ([@WilliamInCyber](https://x.com/WilliamInCyber)).
+Designed and maintained by **William**
 
 ![CASE-001 SSH Brute-Force Investigation](case-001-diagram.png)
 
